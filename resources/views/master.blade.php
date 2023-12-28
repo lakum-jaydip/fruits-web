@@ -10,7 +10,7 @@
     @include('layout/header');
     <section>
         <div>
-            hello
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae, deserunt?
         </div>
     </section>
     @include('layout/footer');
