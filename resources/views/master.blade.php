@@ -12,6 +12,7 @@
         <div>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae, deserunt?
         </div>
+        <div>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam iusto recusandae nisi aperiam magni totam minus at ab. Aperiam dolorum nostrum expedita repellendus dolores, reiciendis illum rem molestiae cupiditate neque.</div>
     </section>
     @include('layout/footer');
 </body>
